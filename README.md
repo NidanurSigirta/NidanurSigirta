@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://img-c.udemycdn.com/course/750x422/4404515_c1c3_2.jpg" alt="MasterHead" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQGHS14rz6P3qQ/profile-displaybackgroundimage-shrink_200_800/B4EZewWQvcHcAU-/0/1751010318451?e=2147483647&v=beta&t=MVsXaokibR2xg7ViWykxqKLLsyaK_5zGQyAav-tdL_k" alt="MasterHead" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Nidanur Sıgırta</h1>
 <h3 align="center">A passionate Data Science and AI developer from Türkiye</h3>
 
