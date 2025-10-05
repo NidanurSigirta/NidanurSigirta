@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/sync/v2/C4E27AQE39M2AJIHo7g/articleshare-shrink_800/articleshare-shrink_800/0/1711667436696?e=2147483647&v=beta&t=UpX14IdR1u7qM_9AZWy8FKQmm6CX4RnmLqx3cejsLDs" alt="MasterHead" style="width: 100%; height: auto;"/>
+  <img src="https://external-preview.redd.it/01uDVuAH0KM_lR-cHIZikLdOTW4gBMvHakV75ugnNkQ.jpg?width=1080&crop=smart&auto=webp&s=1921e8242df8cb079ee3091566f1a73af76feae3" alt="MasterHead" style="width: 80%; height: auto; max-width: 800px;"/>
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Nidanur Sıgırta</h1>
