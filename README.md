@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQGHS14rz6P3qQ/profile-displaybackgroundimage-shrink_200_800/B4EZewWQvcHcAU-/0/1751010318451?e=2147483647&v=beta&t=MVsXaokibR2xg7ViWykxqKLLsyaK_5zGQyAav-tdL_k" alt="MasterHead" />
+  <img src="https://media.licdn.com/dms/image/sync/v2/C4E27AQE39M2AJIHo7g/articleshare-shrink_800/articleshare-shrink_800/0/1711667436696?e=2147483647&v=beta&t=UpX14IdR1u7qM_9AZWy8FKQmm6CX4RnmLqx3cejsLDs" alt="MasterHead" style="width: 100%; height: auto;"/>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Nidanur Sıgırta</h1>
 <h3 align="center">A passionate Data Science and AI developer from Türkiye</h3>
